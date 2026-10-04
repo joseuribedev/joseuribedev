@@ -24,7 +24,7 @@
 | **Applied AI** | Agentic integrations, function calling, structured outputs (Claude / OpenAI APIs) |
 | **Availability** | Open to **remote** roles with US-based teams |
 | **Time zone** | CST (UTC-6), fully aligned with US business hours |
-| **Languages** | Spanish (native) · English (professional) |
+| **Languages** | Spanish (native) · English (Technical proficiency for reading and documentation comprehension) |
 
 ---
 
