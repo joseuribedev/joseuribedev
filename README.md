@@ -34,14 +34,14 @@ Full-Stack Software Engineer with **6+ years of experience** architecting, shipp
 
 I build software rooted in clean architecture, SOLID principles, and production-grade security. As a modern engineer, I leverage advanced AI-assisted workflows (Cursor, Claude, function calling) to optimize execution speed, automate repetitive engineering tasks, and build intelligent features directly into production environments.
 
-- 🏗️ **Architecture-first:** modular boundaries, predictable data models, and APIs designed to be consumed reliably by other teams.
-- 📈 **Impact-driven:** I measure success in system reliability, sub-second response times, and measurable business efficiency.
-- 🤖 **Pragmatic AI integration:** LLMs wired safely into backend services with strict JSON schema validation, fallback mechanisms, and audit trails.
-- ⚙️ **Core strengths:** async data sync, enterprise REST APIs, legacy code refactoring, microservices consumption, and modern web application development.
+- **Architecture-first:** modular boundaries, predictable data models, and APIs designed to be consumed reliably by other teams.
+- **Impact-driven:** I measure success in system reliability, sub-second response times, and measurable business efficiency.
+- **Pragmatic AI integration:** LLMs wired safely into backend services with strict JSON schema validation, fallback mechanisms, and audit trails.
+- **Core strengths:** async data sync, enterprise REST APIs, legacy code refactoring, microservices consumption, and modern web application development.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## Technical Stack & Tooling
 
 **Languages & Frameworks**
 
@@ -77,7 +77,7 @@ I build software rooted in clean architecture, SOLID principles, and production-
 
 ---
 
-## 🏛️ Featured Architecture Case Studies
+## Featured Architecture Case Studies
 
 *Non-confidential summaries of production platforms I architected and deployed. Client names are withheld.*
 
@@ -128,7 +128,7 @@ I build software rooted in clean architecture, SOLID principles, and production-
 
 ---
 
-## 📬 Let's Work Together
+## Let's Work Together
 
 I'm actively open to **Senior Full-Stack Engineering, Forward Deployed Engineering, and Solutions Architecture** roles with US-based teams (remote).
 
