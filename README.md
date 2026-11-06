@@ -135,7 +135,7 @@ I'm actively open to **Senior Full-Stack Engineering, Forward Deployed Engineeri
 **Recruiters and hiring managers, the fastest paths:**
 
 - ✉️ **[Email me](mailto:josejuribeh@hotmail.com)**, I reply within 24 hours
-- 💼 **[Message me on LinkedIn](https://www.linkedin.com/in/joseuribedev)**
+- 💼 **[Message me on LinkedIn](https://www.linkedin.com/in/josejuribeh)**
 
 <div align="center">
 
